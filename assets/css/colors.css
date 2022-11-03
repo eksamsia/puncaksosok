@@ -94,7 +94,7 @@ a:focus {
 .menu-list li:hover > a, 
 .menu-list > li > a:hover, 
 .menu-list > li > a.active {
-	color: #21b360 !important;
+	color: #000000 !important;
 }
 .button:hover {
 	background-color: #21b360;
