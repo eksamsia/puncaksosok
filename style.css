@@ -3590,12 +3590,12 @@ Sign In/Sign Up Pop up
 .slider-text-content {
   clear: both;
   overflow: hidden;
-  color: #fff;
+  color: #ffffff;
   text-align: center;
 }
 .slider-text-content h3 {
   font-size: 24px;
-  color: #fff;
+  color: #ffffff;
 }
 @media screen and (max-width: 536px) {
   .slider-text-content h3 {
@@ -3603,7 +3603,7 @@ Sign In/Sign Up Pop up
   }
 }
 .slider-text-content h2 {
-  color: #fff;
+  color: #ffffff;
   font-size: 90px;
   margin-top: 0;
   margin-bottom: 30px;
